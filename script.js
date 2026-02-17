@@ -1,3 +1,12 @@
+
+/*
+This assignment was completed by me. AI tools were used only for formatting
+and syntax assistance. All logic and implementation decisions are my own.
+*/
+
+
+
+
 function tickUp() {
   let counter = document.getElementById("counter");
   counter.textContent = parseInt(counter.textContent) + 1;
